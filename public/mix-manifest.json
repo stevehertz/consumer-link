@@ -1,4 +1,9 @@
 {
     "/js/app.js": "/js/app.js",
-    "/css/app.css": "/css/app.css"
+    "/css/app.css": "/css/app.css",
+    "/css/js_composer_front.css": "/css/js_composer_front.css",
+    "/css/supersized.shutter.css": "/css/supersized.shutter.css",
+    "/css/supersizing.css": "/css/supersizing.css",
+    "/css/pretty_photo.css": "/css/pretty_photo.css",
+    "/css/styles.css": "/css/styles.css"
 }
