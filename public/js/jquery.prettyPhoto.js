@@ -21,7 +21,7 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
 }
 /*
      FILE ARCHIVED ON 08:08:13 Nov 30, 2018 AND RETRIEVED FROM THE
-     INTERNET ARCHIVE ON 07:54:47 Sep 23, 2024.
+     INTERNET ARCHIVE ON 15:44:22 Sep 24, 2024.
      JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
 
      ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
@@ -29,13 +29,13 @@ if (!self.__WB_pmw) { self.__WB_pmw = function(obj) { this.__WB_source = obj; re
 */
 /*
 playback timings (ms):
-  captures_list: 0.515
-  exclusion.robots: 0.016
-  exclusion.robots.policy: 0.008
-  esindex: 0.009
-  cdx.remote: 8.526
-  LoadShardBlock: 87.504 (3)
-  PetaboxLoader3.datanode: 73.3 (5)
-  PetaboxLoader3.resolve: 246.134 (3)
-  load_resource: 272.551 (2)
+  captures_list: 0.751
+  exclusion.robots: 0.039
+  exclusion.robots.policy: 0.024
+  esindex: 0.011
+  cdx.remote: 6.883
+  LoadShardBlock: 83.392 (3)
+  PetaboxLoader3.datanode: 79.576 (5)
+  PetaboxLoader3.resolve: 164.882 (3)
+  load_resource: 232.526 (2)
 */

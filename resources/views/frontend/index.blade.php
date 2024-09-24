@@ -64,7 +64,7 @@
                     </li>
                     <li id="menu-item-411"
                         class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-411">
-                        <a href="indexbdac.html?page_id=314">
+                        <a href="{{ route('about') }}">
                             About Us
                         </a>
                         <ul class="sub-menu">
@@ -144,7 +144,6 @@
                     transition: 3, // 0-None, 1-Fade, 2-Slide Top, 3-Slide Right, 4-Slide Bottom, 5-Slide Left, 6-Carousel Right, 7-Carousel Left
                     transition_speed: 700, // Speed of transition
                     fit_always: false,
-
                     // Components							
                     slide_links: 'blank', // Individual links for each slide (Options: false, 'num', 'name', 'blank')
                     slides: [ // Slideshow Images
